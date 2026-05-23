@@ -1,0 +1,6 @@
+{
+  "name": "NotebookLM Workshop Companion",
+  "description": "คู่มือเวิร์คช็อปแบบประกบทำและเครื่องมือฝึกสั่งการไอเดียอินโฟกราฟิก ออกแบบสไลด์ และกำหนดโทนสีระดับพรีเมียมตามสูตร 4 ส่วน โดยครูเด่น มาสเตอร์ฟา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
